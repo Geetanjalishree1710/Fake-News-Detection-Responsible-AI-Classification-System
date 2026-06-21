@@ -1,0 +1,23 @@
+from pathlib import Path
+
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / "data"
+SAMPLE_DATA_PATH = DATA_DIR / "sample" / "news_sample.csv"
+DEFAULT_INPUT_PATH = DATA_DIR / "raw" / "news.csv"
+ARTIFACTS_DIR = PROJECT_ROOT / "artifacts" / "latest"
+REPORTS_DIR = PROJECT_ROOT / "reports"
+
+TEXT_COLUMN = "text"
+LABEL_COLUMN = "label"
+SOURCE_COLUMN = "source"
+
+REAL_LABEL = "REAL"
+FAKE_LABEL = "FAKE"
+UNCERTAIN_LABEL = "UNCERTAIN"
+
+KNOWN_LABELS = [REAL_LABEL, FAKE_LABEL]
+DISPLAY_LABELS = [REAL_LABEL, FAKE_LABEL, UNCERTAIN_LABEL]
+
+UNCERTAINTY_THRESHOLD = 0.55
+RANDOM_STATE = 42

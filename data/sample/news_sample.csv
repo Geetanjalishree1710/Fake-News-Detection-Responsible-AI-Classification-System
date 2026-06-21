@@ -1,0 +1,9 @@
+text,label,source
+The minister announced a new infrastructure plan with public funding details.,REAL,newswire-a
+Scientists published a verified study about local air quality improvements.,REAL,newswire-b
+The company released audited results showing steady quarterly growth.,REAL,business-desk
+A celebrity secretly owns a hidden island and controls the weather.,FAKE,tabloid-one
+Shocking report claims drinking water can permanently change your DNA overnight.,FAKE,tabloid-two
+False rumor says the city council banned daylight after 6 p.m.,FAKE,rumor-blog
+The school board approved a new reading program after public consultation.,REAL,local-paper
+An unverified post said the mayor resigned in secret and no outlet confirmed it.,FAKE,social-feed
