@@ -1,9 +1,104 @@
 text,label,source
-The minister announced a new infrastructure plan with public funding details.,REAL,newswire-a
-Scientists published a verified study about local air quality improvements.,REAL,newswire-b
-The company released audited results showing steady quarterly growth.,REAL,business-desk
-A celebrity secretly owns a hidden island and controls the weather.,FAKE,tabloid-one
-Shocking report claims drinking water can permanently change your DNA overnight.,FAKE,tabloid-two
-False rumor says the city council banned daylight after 6 p.m.,FAKE,rumor-blog
-The school board approved a new reading program after public consultation.,REAL,local-paper
-An unverified post said the mayor resigned in secret and no outlet confirmed it.,FAKE,social-feed
+The city approved funding for new pedestrian safety improvements.,REAL,city-news
+Officials announced upgrades to the regional water treatment facility.,REAL,government-release
+The university launched a scholarship program for first-generation students.,REAL,education-desk
+Researchers published findings on improved recycling methods.,REAL,science-journal
+The transport authority added new buses to reduce commuter wait times.,REAL,transit-report
+The health department expanded vaccination services in rural areas.,REAL,health-bulletin
+The state opened a new vocational training center for young workers.,REAL,state-news
+A public library introduced digital learning resources for students.,REAL,community-paper
+The energy agency approved modernization of the local power grid.,REAL,energy-review
+Officials completed repairs to several flood-damaged roads.,REAL,infrastructure-desk
+The ministry released annual agricultural production statistics.,REAL,agri-report
+A hospital introduced a pilot program to improve emergency care.,REAL,medical-news
+The city council approved funding for park renovations.,REAL,civic-update
+Researchers confirmed progress in renewable energy storage technology.,REAL,science-review
+The telecommunications provider expanded broadband access in remote villages.,REAL,industry-news
+A manufacturing company announced plans to hire additional workers.,REAL,business-wire
+Officials launched a road safety awareness campaign.,REAL,public-safety
+The education board approved updates to the school curriculum.,REAL,education-report
+The regional airport completed terminal expansion work.,REAL,aviation-desk
+The government published guidelines for digital service providers.,REAL,policy-news
+The railway authority introduced additional weekend services.,REAL,transport-journal
+A local startup secured funding to expand its operations.,REAL,startup-desk
+The weather agency issued advisories ahead of heavy rainfall.,REAL,weather-bureau
+Officials opened a new community health center.,REAL,local-paper
+The finance ministry released its quarterly economic report.,REAL,financial-review
+Researchers developed a more efficient water filtration process.,REAL,research-weekly
+The city installed solar-powered streetlights in residential areas.,REAL,city-gazette
+A public consultation was held regarding zoning changes.,REAL,civic-record
+The state announced grants for small business development.,REAL,economic-update
+The museum opened a new exhibition featuring regional history.,REAL,culture-desk
+The transport department launched a digital ticketing platform.,REAL,metro-news
+Officials completed restoration work on a historic building.,REAL,heritage-journal
+A hospital reported reduced patient wait times after process improvements.,REAL,health-desk
+The agriculture department introduced a crop insurance awareness program.,REAL,farm-report
+The city expanded bicycle lanes to improve urban mobility.,REAL,urban-news
+Researchers reported findings on local air quality trends.,REAL,environment-review
+The government funded improvements to public school facilities.,REAL,education-bureau
+A new public sports complex opened for community use.,REAL,community-news
+The central bank released updated financial compliance rules.,REAL,banking-desk
+Officials announced a tree-planting initiative across several districts.,REAL,green-report
+The ministry approved a new wastewater management project.,REAL,government-update
+A railway station completed accessibility upgrades for passengers.,REAL,rail-news
+The local council expanded support services for senior citizens.,REAL,social-affairs
+Researchers published a study on traffic congestion reduction strategies.,REAL,academic-journal
+The city introduced smart traffic signals at major intersections.,REAL,urban-planning
+A regional university opened a new engineering research center.,REAL,campus-news
+The public works department completed bridge maintenance work.,REAL,public-works
+Officials launched an online portal for citizen services.,REAL,digital-government
+The energy regulator approved renewable energy investments.,REAL,energy-bulletin
+The health ministry expanded telemedicine access in remote communities.,REAL,health-review
+
+The government approved free electricity for every household starting tomorrow.,FAKE,rumor-blog
+Scientists confirmed that humans can survive without sleep indefinitely.,FAKE,viral-post
+A report claimed all taxes would be permanently eliminated next month.,FAKE,speculation-site
+Researchers developed a battery that lasts 100 years without charging.,FAKE,tech-rumor
+Officials announced plans to replace roads with floating platforms.,FAKE,fabricated-news
+A viral post claimed drinking water can instantly cure all illnesses.,FAKE,health-hoax
+The city council secretly voted to ban weekends.,FAKE,conspiracy-feed
+Scientists discovered a method to communicate with plants using smartphones.,FAKE,fake-science
+The central bank plans to replace all currency with reward points.,FAKE,financial-rumor
+Officials confirmed the moon will appear twice as large next year.,FAKE,space-blog
+A report stated all schools will be replaced by virtual reality headsets.,FAKE,education-rumor
+The government announced unlimited free fuel for all citizens.,FAKE,social-feed
+Researchers proved that magnets can permanently increase intelligence.,FAKE,pseudoscience
+The transport agency plans to remove all traffic signals nationwide.,FAKE,urban-myth
+Officials confirmed a river turned into crystal after a storm.,FAKE,sensational-page
+A viral article claimed pets will soon receive voting rights.,FAKE,satire-feed
+Scientists found a fruit that eliminates the need for food permanently.,FAKE,health-myth
+The ministry announced every citizen will receive a luxury car.,FAKE,rumor-network
+A study claimed staring at the sun improves eyesight permanently.,FAKE,fake-health
+Officials stated airplanes will switch to invisible technology next month.,FAKE,aviation-rumor
+Researchers confirmed teleportation booths for public use.,FAKE,science-hoax
+The city plans to replace buses with flying vehicles this week.,FAKE,transport-myth
+A report claimed smartphones can predict lottery numbers perfectly.,FAKE,clickbait-desk
+Scientists discovered clouds are manufactured in secret facilities.,FAKE,conspiracy-site
+Officials announced all debts will be erased automatically overnight.,FAKE,financial-hoax
+A viral message claimed oceans will disappear within a decade.,FAKE,sensational-blog
+Researchers confirmed humans can photosynthesize like plants.,FAKE,pseudo-report
+The government approved a law requiring everyone to own a robot.,FAKE,fabricated-source
+Scientists found evidence that mountains move every night.,FAKE,fake-discovery
+A report claimed internet access will become completely free worldwide tomorrow.,FAKE,rumor-feed
+Officials announced weather can now be controlled with mobile apps.,FAKE,tech-hoax
+A study suggested coffee grants temporary invisibility powers.,FAKE,myth-blog
+The city plans to replace all buildings with holograms.,FAKE,urban-fiction
+Researchers confirmed fish have developed human language skills.,FAKE,viral-news
+The ministry stated all exams will be replaced by coin tosses.,FAKE,education-hoax
+Scientists developed a vaccine that prevents aging forever.,FAKE,medical-rumor
+Officials announced trains will run using magnetic energy from Mars.,FAKE,conspiracy-desk
+A report claimed trees can send emails through underground roots.,FAKE,fake-tech
+The government secretly controls rainfall through hidden satellites.,FAKE,weather-conspiracy
+Scientists confirmed that moonlight can charge smartphones completely.,FAKE,science-fiction
+The city council approved a law banning daylight after 6 p.m.,FAKE,rumor-blog
+A viral article claimed vegetables can replace internet routers.,FAKE,clickbait-news
+Researchers found a mineral that creates unlimited electricity instantly.,FAKE,fake-research
+Officials stated all pets must obtain driving licenses next year.,FAKE,satire-desk
+A report claimed hospitals will be replaced by healing machines.,FAKE,health-rumor
+Scientists confirmed humans can breathe underwater after special training.,FAKE,viral-feed
+The ministry plans to distribute personal helicopters to residents.,FAKE,social-rumor
+Researchers discovered a device that reads thoughts with perfect accuracy.,FAKE,tech-myth
+Officials announced gravity will be temporarily disabled for maintenance.,FAKE,conspiracy-blog
+A viral post claimed candles can replace broadband internet connections.,FAKE,hoax-network
+
+

@@ -12,6 +12,17 @@ It includes:
 - Streamlit dashboard for interactive analysis
 - automated tests and GitHub Actions CI
 
+The dashboard also includes:
+
+- confidence score with a progress bar
+- explainable AI with top supporting and opposing words
+- uncertainty detection with a configurable threshold
+- source credibility checks for URLs
+- fact-check suggestions from trusted organizations
+- prediction history and analytics charts
+- AI summary and PDF report export
+- optional dark mode
+
 ## Project layout
 
 - `src/fake_news/` contains the reusable pipeline and utilities
